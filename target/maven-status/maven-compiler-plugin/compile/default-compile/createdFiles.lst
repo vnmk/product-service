@@ -1,0 +1,5 @@
+com\myretail\service\product\Product.class
+com\myretail\service\product\ProductService.class
+com\myretail\service\product\Product$CurrentPrice.class
+com\myretail\redskyservice\client\ProductServiceClient.class
+com\myretail\service\product\ProductServiceImpl.class
